@@ -33,7 +33,7 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/koder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/koder" /></a></p><br><br>
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingsley-uchiha&show_icons=true&locale=en&layout=compact" alt="kingsley-uchiha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingsley-uchiha&show_icons=true&locale=en" alt="kingsley-uchiha" /></p>
-
+<br />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kingsley-uchiha&show_icons=true&locale=en" alt="kingsley-uchiha" /></p>
+<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingsley-uchiha&" alt="kingsley-uchiha" /></p>
